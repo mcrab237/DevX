@@ -98,6 +98,7 @@ body {
   padding: 10px;
   font-family: "PT Sans", sans-serif;
   transition: 0.2s ease-in;
+  text-align: center;
 }
 
 .main-hero-text {
@@ -129,6 +130,7 @@ body {
   border-radius: 10px;
   text-decoration: none;
   transition: 0.2s ease-in;
+  text-align: center;
 }
 
 @media screen and (max-width: 860px) {

@@ -148,7 +148,7 @@ body {
 
 @media screen and (max-width: 600px) {
   .main-hero-text {
-    font-size: 30px;
+    font-size: 35px;
     transition: 0.2s ease-in;
     max-width: 400px;
   }
@@ -158,13 +158,13 @@ body {
     padding: 6px;
   }
   .sub-hero-text {
-    font-size: 14px;
+    font-size: 16px;
     transition: 0.2s ease-in;
     margin-top: 30px;
     max-width: 300px;
   }
   .button-hero {
-    font-size: 14px;
+    font-size: 16px;
     transition: 0.2s ease-in;
   }
 }
@@ -211,23 +211,23 @@ body {
 
 @media screen and (max-width: 860px) {
   .stat-text {
-    font-size: 25px;
+    font-size: 35px;
     transition: 0.2s ease-in;
   }
 
   .stat-container img {
     margin: 16px 15px 0px 15px;
-    width: 30px;
+    width: 40px;
     transition: 0.2s ease-in;
   }
 
   .stat-organizer h2 {
-    font-size: 14px;
+    font-size: 18px;
     transition: 0.2s ease-in;
   }
 
   .stat-organizer p {
-    font-size: 10px;
+    font-size: 14px;
     transition: 0.2s ease-in;
   }
 }
@@ -240,7 +240,7 @@ body {
   }
 
   .stat-text {
-    font-size: 18px;
+    font-size: 22px;
   }
 
   .stat-organizer {
@@ -302,18 +302,19 @@ body {
     font-size: 30px;
     position: relative;
     transition: 0.2s ease-in;
+    text-align: center;
   }
   .story-left h3 {
     font-size: 18px;
-    max-width: 350px;
     transition: 0.2s ease-in;
+    text-align: center;
   }
 
   .story-left p {
     font-size: 14px;
-    max-width: 350px;
     margin-top: 30px;
     transition: 0.2s ease-in;
+    text-align: center;
   }
 
   @media screen and (max-width:1000px) {
@@ -447,7 +448,7 @@ body {
 
 @media screen and (max-width: 780px ) {
 .set-container {
-  padding: 40px 0px;
+  padding: 40px 10px;
   transition: 0.2s ease-in-out;
 }
 
@@ -465,13 +466,13 @@ body {
 .set-container p {
   text-align: center;
   font-size: 12px;
-    max-width: 400px;
+    max-width: 300px;
 
 }
 
 .aleft {
-  top: 75px;
-  right: 200px;
+  top: 90px;
+  right: 160px;
     transition: 0.2s ease-in-out;
 
 }
@@ -480,7 +481,7 @@ body {
   background-color: white;
   position: relative;
   bottom: 170px;
-  left: 200px;
+  left: 160px;
     transition: 0.2s ease-in-out;
 
   }
@@ -564,11 +565,10 @@ body {
 @media screen and (max-width:1000px ){
   .join-section {
   display: grid;
-  padding: 100px 180px 180px 180px;
   justify-content: center;
 }
 .side-image {
-  width: 400px;
+  width: 330px;
  
 }
 
@@ -671,7 +671,7 @@ body {
 
 @media screen and (max-width: 880px) {
 .grow-right img {
-  width: 350px;
+  width: 250px;
   margin-top: 80px;
 }
 
